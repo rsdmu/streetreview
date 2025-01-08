@@ -1,0 +1,61 @@
+﻿point_id,sidewalk_width,sidewalk_condition,sidewalk_accessibility,seating_availability,sun_exposure,shade_availability,pedestrian_crossings,crossing_signals,crossing_safety,greenery_presence,greenery_type,open_space_areas,street_lighting,waste_bins,bus_stops,barrier_presence,movement_obstructions,building_hight,road_markings,bike_lane_presence,surrounding_land_use,site_years_old,urbanization_spectrum,socio-economic_status,surrounding_area_density
+i01,Narrow,Fair,Basic,Absent,Partly Present,Present,Present,Present,Basic,High,Trees and grass,Absent,Present,Absent,Present,No,No,Low-rise,Present,Absent,Residential,1970s,Urban,Medium,Medium
+i02,Variable,Fair,Basic,Present,Present,Absent,Present,Present,Basic,Basic,Trees and grass,Present,Present,Present,Absent,Few,Few,High-rise,Present,Present,Commercial,1970s,City Center,High,High
+i03,Variable,Fair,Basic,Absent,Present,Present,Present,Present,Basic,Medium,Trees,Absent,Present,Absent,Present,No,No,Mid-rise,Absent,Absent,Mixed use,2010s,Urban,High,Medium
+i04,Variable,Fair,Limited,Absent,Present,Absent,Present,Present,Basic,Basic,Trees and grass,Present,Present,Present,Absent,Few,No,Mid-rise,Present,Absent,Commercial,1920s,City Center,High,Medium
+i05,Narrow,Excellent,Basic,Absent,Partly Present,Present,Absent,Absent,Absent,Basic,Trees and grass,Absent,Present,Absent,Absent,No,No,Low-rise,Absent,Absent,Residential,1970s,Urban,High,Medium
+i06,Narrow,Excellent,Basic,Absent,Present,Absent,Absent,Absent,Absent,Absent,Trees and grass,Absent,Present,Absent,Absent,No,No,Mid-rise,Absent,Absent,Residential,2010s,Urban,High,Medium
+i07,Narrow,Fair,Basic,Absent,Present,Present,Absent,Absent,Absent,Medium,Trees and grass,Absent,Present,Absent,Absent,No,No,Low-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i08,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Present,Absent,Absent,Few,Few,Low-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i09,Narrow,Fair,Basic,Absent,Present,Absent,Absent,Absent,Basic,Medium,Trees and grass,Absent,Present,Absent,Absent,Few,No,Low-rise,Absent,Absent,Residential,1970s,Urban,High,Medium
+i10,Wide,Fair,Basic,Absent,Partly Present,Present,Present,Present,Basic,Medium,Trees,Absent,Present,Present,Absent,Few,No,Mid-rise,Present,Absent,Residential,1970s,City Center,Medium,High
+i11,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Basic,Trees and grass,Absent,Absent,Absent,Absent,Few,Few,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i12,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Basic,Trees,Absent,Present,Absent,Absent,Few,Few,Mid-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i13,Wide,Fair,Basic,Absent,Present,Present,Present,Present,Basic,Basic,Trees ,Absent,Present,Present,Present,No,Few,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i14,Wide,Fair,Excellent,Present,Partly Present,Present,Present,Present,High,High,Trees_grass_flower,Present,Present,Present,Absent,No,No,Mid-rise,Present,Present,Mixed use,1970s,City Center,Medium,Medium
+i15,Narrow,Fair,Basic,Absent,Present,Absent,Present,Present,Basic,Absent,Absent,Absent,Present,Absent,Absent,Few,No,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i16,Wide,Excellent,Limited,Present,Partly Present,Present,Present,Present,High,Basic,Trees,Present,Present,Absent,Absent,Few,Few,High-rise,Absent,Absent,Mixed use,2010s,City Center,High,Medium
+i17,Wide,Fair,Basic,Present,Partly Present,Present,Present,Present,Basic,Basic,Trees,Absent,Present,Absent,Absent,No,No,High-rise,Present,Absent,Commercial,1970s,City Center,High,High
+i18,Wide,Excellent,Excellent,Present,Partly Present,Present,Present,Present,High,Basic,Trees_grass_flower,Present,Present,Present,Absent,No,No,Mid-rise,Present,Present,Mixed use,2010s,City Center,High,Medium
+i19,Absent,Absent,Absent,Absent,Present,Absent,Absent,Absent,Absent,High,Trees_grass_flower,Absent,Absent,Absent,Absent,No,Few,Low-rise,Absent,Absent,Residential,1970s,Suburban,High,Low
+i20,Narrow,Fair,Basic,Absent,Present,Absent,Absent,Absent,Absent,Absent,grass,Absent,Present,Absent,Absent,No,No,Low-rise,Present,Absent,Commercial,2010s,Urban,Medium,Low
+i21,Narrow,Fair,Basic,Absent,Partly Present,Present,Present,Present,Basic,High,Trees and grass,Absent,Present,Absent,Present,No,No,Low-rise,Present,Absent,Residential,1970s,Urban,Medium,Medium
+i22,Variable,Fair,Basic,Present,Present,Absent,Present,Present,Basic,Basic,Trees and grass,Present,Present,Present,Absent,Few,Few,High-rise,Present,Present,Commercial,1970s,City Center,High,High
+i23,Variable,Fair,Basic,Absent,Present,Present,Present,Present,Basic,Medium,Trees,Absent,Present,Absent,Present,No,No,Mid-rise,Absent,Absent,Mixed use,2010s,Urban,High,Medium
+i24,Variable,Fair,Limited,Absent,Present,Absent,Present,Present,Basic,Basic,Trees and grass,Present,Present,Present,Absent,Few,No,Mid-rise,Present,Absent,Commercial,1920s,City Center,High,Medium
+i25,Narrow,Excellent,Basic,Absent,Partly Present,Present,Absent,Absent,Absent,Basic,Trees and grass,Absent,Present,Absent,Absent,No,No,Low-rise,Absent,Absent,Residential,1970s,Urban,High,Medium
+i26,Narrow,Excellent,Basic,Absent,Present,Absent,Absent,Absent,Absent,Absent,Trees and grass,Absent,Present,Absent,Absent,No,No,Mid-rise,Absent,Absent,Residential,2010s,Urban,High,Medium
+i27,Narrow,Fair,Basic,Absent,Present,Present,Absent,Absent,Absent,Medium,Trees and grass,Absent,Present,Absent,Absent,No,No,Low-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i28,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Present,Absent,Absent,Few,Few,Low-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i29,Narrow,Fair,Basic,Absent,Present,Absent,Absent,Absent,Basic,Medium,Trees and grass,Absent,Present,Absent,Absent,Few,No,Low-rise,Absent,Absent,Residential,1970s,Urban,High,Medium
+i30,Wide,Fair,Basic,Absent,Partly Present,Present,Present,Present,Basic,Medium,Trees,Absent,Present,Present,Absent,Few,No,Mid-rise,Present,Absent,Residential,1970s,City Center,Medium,High
+i31,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Basic,Trees and grass,Absent,Absent,Absent,Absent,Few,Few,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i32,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Basic,Trees,Absent,Present,Absent,Absent,Few,Few,Mid-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i33,Wide,Fair,Basic,Absent,Present,Present,Present,Present,Basic,Basic,Trees ,Absent,Present,Present,Present,No,Few,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i34,Wide,Fair,Excellent,Present,Partly Present,Present,Present,Present,High,High,Trees_grass_flower,Present,Present,Present,Absent,No,No,Mid-rise,Present,Present,Mixed use,1970s,City Center,Medium,Medium
+i35,Narrow,Fair,Basic,Absent,Present,Absent,Present,Present,Basic,Absent,Absent,Absent,Present,Absent,Absent,Few,No,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i36,Wide,Excellent,Limited,Present,Partly Present,Present,Present,Present,High,Basic,Trees,Present,Present,Absent,Absent,Few,Few,High-rise,Absent,Absent,Mixed use,2010s,City Center,High,Medium
+i37,Wide,Fair,Basic,Present,Partly Present,Present,Present,Present,Basic,Basic,Trees,Absent,Present,Absent,Absent,No,No,High-rise,Present,Absent,Commercial,1970s,City Center,High,High
+i38,Wide,Excellent,Excellent,Present,Partly Present,Present,Present,Present,High,Basic,Trees_grass_flower,Present,Present,Present,Absent,No,No,Mid-rise,Present,Present,Mixed use,2010s,City Center,High,Medium
+i39,Absent,Absent,Absent,Absent,Present,Absent,Absent,Absent,Absent,High,Trees_grass_flower,Absent,Absent,Absent,Absent,No,Few,Low-rise,Absent,Absent,Residential,1970s,Suburban,High,Low
+i40,Narrow,Fair,Basic,Absent,Present,Absent,Absent,Absent,Absent,Absent,grass,Absent,Present,Absent,Absent,No,No,Low-rise,Present,Absent,Commercial,2010s,Urban,Medium,Low
+i41,Narrow,Fair,Basic,Absent,Partly Present,Present,Present,Present,Basic,High,Trees and grass,Absent,Present,Absent,Present,No,No,Low-rise,Present,Absent,Residential,1970s,Urban,Medium,Medium
+i42,Variable,Fair,Basic,Present,Present,Absent,Present,Present,Basic,Basic,Trees and grass,Present,Present,Present,Absent,Few,Few,High-rise,Present,Present,Commercial,1970s,City Center,High,High
+i43,Variable,Fair,Basic,Absent,Present,Present,Present,Present,Basic,Medium,Trees,Absent,Present,Absent,Present,No,No,Mid-rise,Absent,Absent,Mixed use,2010s,Urban,High,Medium
+i44,Variable,Fair,Limited,Absent,Present,Absent,Present,Present,Basic,Basic,Trees and grass,Present,Present,Present,Absent,Few,No,Mid-rise,Present,Absent,Commercial,1920s,City Center,High,Medium
+i45,Narrow,Excellent,Basic,Absent,Partly Present,Present,Absent,Absent,Absent,Basic,Trees and grass,Absent,Present,Absent,Absent,No,No,Low-rise,Absent,Absent,Residential,1970s,Urban,High,Medium
+i46,Narrow,Excellent,Basic,Absent,Present,Absent,Absent,Absent,Absent,Absent,Trees and grass,Absent,Present,Absent,Absent,No,No,Mid-rise,Absent,Absent,Residential,2010s,Urban,High,Medium
+i47,Narrow,Fair,Basic,Absent,Present,Present,Absent,Absent,Absent,Medium,Trees and grass,Absent,Present,Absent,Absent,No,No,Low-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i48,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Present,Absent,Absent,Few,Few,Low-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i49,Narrow,Fair,Basic,Absent,Present,Absent,Absent,Absent,Basic,Medium,Trees and grass,Absent,Present,Absent,Absent,Few,No,Low-rise,Absent,Absent,Residential,1970s,Urban,High,Medium
+i50,Wide,Fair,Basic,Absent,Partly Present,Present,Present,Present,Basic,Medium,Trees,Absent,Present,Present,Absent,Few,No,Mid-rise,Present,Absent,Residential,1970s,City Center,Medium,High
+i51,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Basic,Trees and grass,Absent,Absent,Absent,Absent,Few,Few,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i52,Narrow,Fair,Limited,Absent,Present,Absent,Absent,Absent,Absent,Basic,Trees,Absent,Present,Absent,Absent,Few,Few,Mid-rise,Absent,Absent,Residential,1970s,Urban,Low,Medium
+i53,Wide,Fair,Basic,Absent,Present,Present,Present,Present,Basic,Basic,Trees ,Absent,Present,Present,Present,No,Few,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i54,Wide,Fair,Excellent,Present,Partly Present,Present,Present,Present,High,High,Trees_grass_flower,Present,Present,Present,Absent,No,No,Mid-rise,Present,Present,Mixed use,1970s,City Center,Medium,Medium
+i55,Narrow,Fair,Basic,Absent,Present,Absent,Present,Present,Basic,Absent,Absent,Absent,Present,Absent,Absent,Few,No,Mid-rise,Absent,Absent,Mixed use,1970s,City Center,Medium,Medium
+i56,Wide,Excellent,Limited,Present,Partly Present,Present,Present,Present,High,Basic,Trees,Present,Present,Absent,Absent,Few,Few,High-rise,Absent,Absent,Mixed use,2010s,City Center,High,Medium
+i57,Wide,Fair,Basic,Present,Partly Present,Present,Present,Present,Basic,Basic,Trees,Absent,Present,Absent,Absent,No,No,High-rise,Present,Absent,Commercial,1970s,City Center,High,High
+i58,Wide,Excellent,Excellent,Present,Partly Present,Present,Present,Present,High,Basic,Trees_grass_flower,Present,Present,Present,Absent,No,No,Mid-rise,Present,Present,Mixed use,2010s,City Center,High,Medium
+i59,Absent,Absent,Absent,Absent,Present,Absent,Absent,Absent,Absent,High,Trees_grass_flower,Absent,Absent,Absent,Absent,No,Few,Low-rise,Absent,Absent,Residential,1970s,Suburban,High,Low
+i60,Narrow,Fair,Basic,Absent,Present,Absent,Absent,Absent,Absent,Absent,grass,Absent,Present,Absent,Absent,No,No,Low-rise,Present,Absent,Commercial,2010s,Urban,Medium,Low
