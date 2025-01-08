@@ -1,10 +1,13 @@
-# StreetReview Project
+# Street Review Project
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/e6b1384e-c042-474b-b057-90ff35d6ff8d" />
 
 ## Overview
 The StreetReview Project leverages the [StreetReview dataset](https://huggingface.co/datasets/rsdmu/streetreview) to develop an AI-based framework for assessing urban streetscape inclusivity. This repository contains code for:
 1. **Feature Extraction**
 2. **Model Training**
 3. **Model Inference**
+   
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/ec4d7f79-fb28-439e-b57c-26473329833f" />
 
 The project uses semantic segmentation, a multi-output neural network with attention mechanisms, and batch inference to predict inclusivity and accessibility scores from street-view images.
 
@@ -42,6 +45,8 @@ The core model is a multi-output neural network with a **Multi-Head Attention** 
 
 ### 1. `scripts/01_extract_features.py`
 Processes street-view images to extract semantic segmentation logits using a Segformer model and saves them as CSV files.
+
+![Original_visualization](https://github.com/user-attachments/assets/59932c2b-4c39-404f-8486-ded7d2b31a94)
 
 **Usage:**
 ```bash
