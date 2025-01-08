@@ -1,0 +1,16 @@
+name: streetreview_env
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch
+      - transformers
+      - pandas
+      - scikit-learn
+      - matplotlib
+      - seaborn
+      - plotly

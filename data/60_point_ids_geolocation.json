@@ -1,0 +1,302 @@
+{
+    "I01": {
+        "latitude": 45.4913081,
+        "longitude": -73.6340592,
+        "address": "4865 Chem. de la Côte-Sainte"
+    },
+    "I02": {
+        "latitude": 45.5164112,
+        "longitude": -73.5634797,
+        "address": "Rue Berri"
+    },
+    "I03": {
+        "latitude": 45.5039337,
+        "longitude": -73.6226697,
+        "address": "3010 Chem. de la Côte-Sainte-"
+    },
+    "I04": {
+        "latitude": 45.5042962,
+        "longitude": -73.5535821,
+        "address": "89 Rue Commune"
+    },
+    "I05": {
+        "latitude": 45.4831721,
+        "longitude": -73.5954052,
+        "address": "336 Av. Metcalfe"
+    },
+    "I06": {
+        "latitude": 45.5164215,
+        "longitude": -73.7120736,
+        "address": "2119 Rue du Borée"
+    },
+    "I07": {
+        "latitude": 45.540224,
+        "longitude": -73.7544412,
+        "address": "1096 Pl. Mill Hill"
+    },
+    "I08": {
+        "latitude": 45.5793311,
+        "longitude": -73.6145038,
+        "address": "4250 Rue René Goupil"
+    },
+    "I09": {
+        "latitude": 45.5204026,
+        "longitude": -73.6396213,
+        "address": "127 Vivian Ave"
+    },
+    "I10": {
+        "latitude": 45.5247401,
+        "longitude": -73.6079945,
+        "address": "5961 Park Ave"
+    },
+    "I11": {
+        "latitude": 45.5033449,
+        "longitude": -73.6191039,
+        "address": "Ave Louis Colin"
+    },
+    "I12": {
+        "latitude": 45.5255384,
+        "longitude": -73.6303174,
+        "address": "7535 Bd de l'Acadie"
+    },
+    "I13": {
+        "latitude": 45.4937129,
+        "longitude": -73.6361998,
+        "address": "5980 Victoria Ave"
+    },
+    "I14": {
+        "latitude": 45.535521,
+        "longitude": -73.5818438,
+        "address": "1664 Laurier Ave E"
+    },
+    "I15": {
+        "latitude": 45.542577,
+        "longitude": -73.6069918,
+        "address": "1260 Rue Bélanger"
+    },
+    "I16": {
+        "latitude": 45.5048676,
+        "longitude": -73.5566912,
+        "address": "100 Place d'Armes"
+    },
+    "I17": {
+        "latitude": 45.4974224,
+        "longitude": -73.5808938,
+        "address": "1476 Sherbrooke St W"
+    },
+    "I18": {
+        "latitude": 45.5148638,
+        "longitude": -73.563418,
+        "address": "369 Rue Émery"
+    },
+    "I19": {
+        "latitude": 45.4389326,
+        "longitude": -73.8553587,
+        "address": "133 Rue Lincoln"
+    },
+    "I20": {
+        "latitude": 45.5179069,
+        "longitude": -73.7004725,
+        "address": "1919 Blvd. Marcel-Laurin"
+    },
+    "I21": {
+        "latitude": 45.4918081,
+        "longitude": -73.6335592,
+        "address": "4865 Chem. de la Côte-Sainte (Head)"
+    },
+    "I22": {
+        "latitude": 45.5159112,
+        "longitude": -73.5629797,
+        "address": "Rue Berri (Head)"
+    },
+    "I23": {
+        "latitude": 45.5044337,
+        "longitude": -73.6221697,
+        "address": "3010 Chem. de la Côte-Sainte- (Head)"
+    },
+    "I24": {
+        "latitude": 45.5047962,
+        "longitude": -73.5530821,
+        "address": "89 Rue Commune (Head)"
+    },
+    "I25": {
+        "latitude": 45.4836721,
+        "longitude": -73.5949052,
+        "address": "336 Av. Metcalfe (Head)"
+    },
+    "I26": {
+        "latitude": 45.5169215,
+        "longitude": -73.7115736,
+        "address": "2119 Rue du Borée (Head)"
+    },
+    "I27": {
+        "latitude": 45.540724,
+        "longitude": -73.7539412,
+        "address": "1096 Pl. Mill Hill (Head)"
+    },
+    "I28": {
+        "latitude": 45.5798311,
+        "longitude": -73.6140038,
+        "address": "4250 Rue René Goupil (Head)"
+    },
+    "I29": {
+        "latitude": 45.5209026,
+        "longitude": -73.6391213,
+        "address": "127 Vivian Ave (Head)"
+    },
+    "I30": {
+        "latitude": 45.5252401,
+        "longitude": -73.6074945,
+        "address": "5961 Park Ave (Head)"
+    },
+    "I31": {
+        "latitude": 45.5038449,
+        "longitude": -73.6186039,
+        "address": "Ave Louis Colin (Head)"
+    },
+    "I32": {
+        "latitude": 45.5260384,
+        "longitude": -73.6298174,
+        "address": "7535 Bd de l'Acadie (Head)"
+    },
+    "I33": {
+        "latitude": 45.4942129,
+        "longitude": -73.6356998,
+        "address": "5980 Victoria Ave (Head)"
+    },
+    "I34": {
+        "latitude": 45.536021,
+        "longitude": -73.5813438,
+        "address": "1664 Laurier Ave E (Head)"
+    },
+    "I35": {
+        "latitude": 45.543077,
+        "longitude": -73.6064918,
+        "address": "1260 Rue Bélanger (Head)"
+    },
+    "I36": {
+        "latitude": 45.5053676,
+        "longitude": -73.5561912,
+        "address": "100 Place d'Armes (Head)"
+    },
+    "I37": {
+        "latitude": 45.4979224,
+        "longitude": -73.5803938,
+        "address": "1476 Sherbrooke St W (Head)"
+    },
+    "I38": {
+        "latitude": 45.5153638,
+        "longitude": -73.562918,
+        "address": "369 Rue Émery (Head)"
+    },
+    "I39": {
+        "latitude": 45.4394326,
+        "longitude": -73.8548587,
+        "address": "133 Rue Lincoln (Head)"
+    },
+    "I40": {
+        "latitude": 45.5184069,
+        "longitude": -73.6999725,
+        "address": "1919 Blvd. Marcel-Laurin (Head)"
+    },
+    "I41": {
+        "latitude": 45.4908081,
+        "longitude": -73.6345592,
+        "address": "4865 Chem. de la Côte-Sainte (Tail)"
+    },
+    "I42": {
+        "latitude": 45.5159112,
+        "longitude": -73.5639797,
+        "address": "Rue Berri (Tail)"
+    },
+    "I43": {
+        "latitude": 45.5034337,
+        "longitude": -73.6231697,
+        "address": "3010 Chem. de la Côte-Sainte- (Tail)"
+    },
+    "I44": {
+        "latitude": 45.5037962,
+        "longitude": -73.5540821,
+        "address": "89 Rue Commune (Tail)"
+    },
+    "I45": {
+        "latitude": 45.4826721,
+        "longitude": -73.5964052,
+        "address": "336 Av. Metcalfe (Tail)"
+    },
+    "I46": {
+        "latitude": 45.5159215,
+        "longitude": -73.7125736,
+        "address": "2119 Rue du Borée (Tail)"
+    },
+    "I47": {
+        "latitude": 45.539724,
+        "longitude": -73.7559412,
+        "address": "1096 Pl. Mill Hill (Tail)"
+    },
+    "I48": {
+        "latitude": 45.5788311,
+        "longitude": -73.6150038,
+        "address": "4250 Rue René Goupil (Tail)"
+    },
+    "I49": {
+        "latitude": 45.5199026,
+        "longitude": -73.6401213,
+        "address": "127 Vivian Ave (Tail)"
+    },
+    "I50": {
+        "latitude": 45.5242401,
+        "longitude": -73.6084945,
+        "address": "5961 Park Ave (Tail)"
+    },
+    "I51": {
+        "latitude": 45.5028449,
+        "longitude": -73.6201039,
+        "address": "Ave Louis Colin (Tail)"
+    },
+    "I52": {
+        "latitude": 45.5250384,
+        "longitude": -73.6313174,
+        "address": "7535 Bd de l'Acadie (Tail)"
+    },
+    "I53": {
+        "latitude": 45.4932129,
+        "longitude": -73.6366998,
+        "address": "5980 Victoria Ave (Tail)"
+    },
+    "I54": {
+        "latitude": 45.535021,
+        "longitude": -73.5818438,
+        "address": "1664 Laurier Ave E (Tail)"
+    },
+    "I55": {
+        "latitude": 45.543877,
+        "longitude": -73.6074918,
+        "address": "1260 Rue Bélanger (Tail)"
+    },
+    "I56": {
+        "latitude": 45.5058676,
+        "longitude": -73.5568912,
+        "address": "100 Place d'Armes (Tail)"
+    },
+    "I57": {
+        "latitude": 45.4969224,
+        "longitude": -73.5813938,
+        "address": "1476 Sherbrooke St W (Tail)"
+    },
+    "I58": {
+        "latitude": 45.5138638,
+        "longitude": -73.564918,
+        "address": "369 Rue Émery (Tail)"
+    },
+    "I59": {
+        "latitude": 45.4374326,
+        "longitude": -73.8568587,
+        "address": "133 Rue Lincoln (Tail)"
+    },
+    "I60": {
+        "latitude": 45.5189069,
+        "longitude": -73.7019725,
+        "address": "1919 Blvd. Marcel-Laurin (Tail)"
+    }
+}
